@@ -1,0 +1,81 @@
+h1 {
+    color:rgb(255, 22, 22);
+    text-align:center;
+}
+h2 {
+    font-weight:lighter;
+    text-align:center;
+}
+.profile {
+    height: auto;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:50%;
+    border:3px solid grey;
+}
+body {
+    background-color:lightgrey;
+    font-family: 'Open Sans', sans-serif;
+    color: slategray;
+}
+header {
+    background-color: white;
+    max-width:50%;
+    margin:auto;
+    padding :2%;
+}
+.yourself {
+    color:white;
+    background:red;
+    padding:10px;
+    border-radius:5px;
+    text-decoration:none;
+}
+nav {
+    background-color: white;
+    max-width:54%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2px,
+}
+ul{
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    padding:5%;
+}
+li{
+    display:inline-block;
+    padding:5%;
+}
+.social {
+    text-decoration: none;
+    color:rgb(44, 44, 44);
+}
+section {
+    background-color: white;
+    max-width:54%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 2px;
+}
+.movies {
+    padding:5%;
+    max-width:100px;
+    margin: 10%;
+}
+.his{
+    background-color:lightgrey;
+    font-style:normal;
+}
+.description{
+    margin-left: 10%;
+}
+h3{
+    margin-left: 10%; 
+    text-align: center;
+}
+.title_movies{
+    padding-top:10%;
+}
